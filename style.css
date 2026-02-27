@@ -1,0 +1,31 @@
+h1{color: #f01111;
+background-color: #f7dba6;}
+
+label{
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+input{
+    width: 100%;
+    padding: 8px;
+    margin-top: 50px;
+    border: 1px solid #ecb06c;
+}
+
+button{
+    width: 100%;
+    padding: 10px;
+    margin-top: 15px;
+    background-color: #ce351a;
+    color: #f0d7c3;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+button:hover{
+    background-color: #f38383;
+}  
